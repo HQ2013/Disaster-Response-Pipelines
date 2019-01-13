@@ -68,7 +68,8 @@ There are 1 notebooks available here to showcase work related to the above quest
 
 The average overall accuracy is 94.79%, and the F1 score (custom definition): 93.69%
 
-And the App works as expected
+And the App works as expected:
+
 ![alt text](https://github.com/HQ2013/Disaster-Response-Pipelines/screenshots/Data Visualization Plot 1.JPG)
 ![alt text](https://github.com/HQ2013/Disaster-Response-Pipelines/screenshots/Data Visualization Plot 2.JPG)
 ![alt text](https://github.com/HQ2013/Disaster-Response-Pipelines/screenshots/Data Visualization Plot 3.JPG)
