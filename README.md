@@ -70,9 +70,9 @@ The average overall accuracy is 94.79%, and the F1 score (custom definition): 93
 
 And the App works as expected:
 
-![alt text](https://github.com/HQ2013/Disaster-Response-Pipelines/screenshots/Data Visualization Plot 1.JPG)
-![alt text](https://github.com/HQ2013/Disaster-Response-Pipelines/screenshots/Data Visualization Plot 2.JPG)
-![alt text](https://github.com/HQ2013/Disaster-Response-Pipelines/screenshots/Data Visualization Plot 3.JPG)
+![alt text](https://github.com/HQ2013/Disaster-Response-Pipelines/blob/master/screenshots/Data%20Visualization%20Plot%201.JPG?raw=true)
+![alt text](https://github.com/HQ2013/Disaster-Response-Pipelines/blob/master/screenshots/Data%20Visualization%20Plot%202.JPG?raw=true)
+![alt text](https://github.com/HQ2013/Disaster-Response-Pipelines/blob/master/screenshots/Data%20Visualization%20Plot%203.JPG?raw=true)
 ![alt text](https://github.com/HQ2013/Disaster-Response-Pipelines/blob/master/screenshots/classify_message.JPG?raw=true)
 ----------------------------------------------------------------------------------------------------------
 
