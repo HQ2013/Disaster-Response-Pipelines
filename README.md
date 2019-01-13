@@ -40,13 +40,13 @@ There are 1 notebooks available here to showcase work related to the above quest
     * disaster_response_ETL.db: Output File, SQLite database, and also the input file of train_classifier.py
     
 - In working_directory/models:
-    1) train_classifier.py: Machine Learning pipeline Script to fit, tune, evaluate, and export the model to a Python pickle file
-    2) ML Pipeline Preparation_HQ.ipynb: jupyter notebook records the progress of building the Machine Learning Pipeline
-    3) model.p: Output File, a pickle file of the trained Machine Learning Model
+    * train_classifier.py: Machine Learning pipeline Script to fit, tune, evaluate, and export the model to a Python pickle file
+    * ML Pipeline Preparation_HQ.ipynb: jupyter notebook records the progress of building the Machine Learning Pipeline
+    * model.p: Output File, a pickle file of the trained Machine Learning Model
 
 - In working_directory/app:
-    1) templates/*.html: HTML templates for the web app.
-    2) run.py: Start the Python server for the web app and prepare visualizations.
+    * templates/*.html: HTML templates for the web app.
+    * run.py: Start the Python server for the web app and prepare visualizations.
 
 
 ### Instructions<a name="instructions"></a>
