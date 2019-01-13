@@ -13,9 +13,7 @@ A Udacity Data Scientist Nanodegree Project
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
-
-Beyond the Anaconda distribution of Python, the following packages need to be installed for nltk:
+Beyond the Anaconda distribution of Python 3, the following packages need to be installed for nltk:
 * punkt
 * wordnet
 * averaged_perceptron_tagger
