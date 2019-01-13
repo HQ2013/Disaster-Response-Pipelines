@@ -13,8 +13,8 @@
 
 3. Go to http://0.0.0.0:3001/
 
-#Important Files:
-data/process_data.py:       ETL pipeline used to process data in preparation for model building.
-models/train_classifier.py: Machine Learning pipeline used to fit, tune, evaluate, and export the model to a Python pickle
-app/templates/*.html:       HTML templates for the web app.
-run.py:                     Start the Python server for the web app and prepare visualizations.
+### Important Files:
+- data/process_data.py:       ETL pipeline used to process data in preparation for model building.
+- models/train_classifier.py: Machine Learning pipeline used to fit, tune, evaluate, and export the model to a Python pickle
+- app/templates/*.html:       HTML templates for the web app.
+- run.py:                     Start the Python server for the web app and prepare visualizations.
