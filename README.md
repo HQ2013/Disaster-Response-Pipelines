@@ -9,7 +9,6 @@ A Udacity Data Scientist Nanodegree Project
 3. [File Descriptions](#files)
 4. [Instructions](#instructions)
 5. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 
 ## Installation <a name="installation"></a>
@@ -74,21 +73,3 @@ And the App works as expected:
 ![alt text](https://github.com/HQ2013/Disaster-Response-Pipelines/blob/master/screenshots/Data%20Visualization%20Plot%202.JPG?raw=true)
 ![alt text](https://github.com/HQ2013/Disaster-Response-Pipelines/blob/master/screenshots/Data%20Visualization%20Plot%203.JPG?raw=true)
 ![alt text](https://github.com/HQ2013/Disaster-Response-Pipelines/blob/master/screenshots/classify_message.JPG?raw=true)
-----------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-
-Must give credit to Aman Shrivastava & EA Sports for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset). Otherwise, feel free to use the code here as you would like! 
