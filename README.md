@@ -73,7 +73,7 @@ And the App works as expected:
 ![alt text](https://github.com/HQ2013/Disaster-Response-Pipelines/screenshots/Data Visualization Plot 1.JPG)
 ![alt text](https://github.com/HQ2013/Disaster-Response-Pipelines/screenshots/Data Visualization Plot 2.JPG)
 ![alt text](https://github.com/HQ2013/Disaster-Response-Pipelines/screenshots/Data Visualization Plot 3.JPG)
-![alt text](https://github.com/HQ2013/Disaster-Response-Pipelines/screenshots/classify_message.JPG)
+![alt text](https://github.com/HQ2013/Disaster-Response-Pipelines/blob/master/screenshots/classify_message.JPG?raw=true)
 ----------------------------------------------------------------------------------------------------------
 
 
