@@ -33,11 +33,11 @@ Machine learning is critical to helping different organizations understand which
 There are 1 notebooks available here to showcase work related to the above questions. The notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells & comments were used to assist in walking through the thought process for individual steps.
 
 - In working_directory/data:
-    1) process_data.py: ETL Pipeline Script to process data, it loads and merges the messages and categories datasets, splits the categories column into separate, clearly named columns, converts values to binary, and drops duplicates.
-    2) ETL Pipeline Preparation HQ.ipynb: jupyter notebook records the progress of building the ETL Pipeline
-    3) disaster_messages.csv: Input File 1, CSV file containing messages
-    4) disaster_categories.csv: Input File 2, CSV file containing categories
-    5) disaster_response_ETL.db: Output File, SQLite database, and also the input file of train_classifier.py
+    * process_data.py: ETL Pipeline Script to process data, it loads and merges the messages and categories datasets, splits the categories column into separate, clearly named columns, converts values to binary, and drops duplicates.
+    * ETL Pipeline Preparation HQ.ipynb: jupyter notebook records the progress of building the ETL Pipeline
+    * disaster_messages.csv: Input File 1, CSV file containing messages
+    * disaster_categories.csv: Input File 2, CSV file containing categories
+    * disaster_response_ETL.db: Output File, SQLite database, and also the input file of train_classifier.py
     
 - In working_directory/models:
     1) train_classifier.py: Machine Learning pipeline Script to fit, tune, evaluate, and export the model to a Python pickle file
